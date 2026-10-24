@@ -32,3 +32,8 @@ bin/
 **/target/
 **/.idea/
 **/*.iml
+
+**/target/
+**/out/
+**/.idea/
+**/*.iml
