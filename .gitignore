@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Java build output
+**/out/
+**/target/
+**/.idea/
+**/*.iml
